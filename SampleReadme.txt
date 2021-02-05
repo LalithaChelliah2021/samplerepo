@@ -10,3 +10,6 @@ Remote changes
 second remote changes
 
 changing locally
+
+
+third commit in master
